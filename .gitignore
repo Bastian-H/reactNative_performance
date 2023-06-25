@@ -63,5 +63,5 @@ yarn-error.log
 .metro-health-check*
 
 
-/__tests__/
 __tests__/
+.VSCodeCounter/
